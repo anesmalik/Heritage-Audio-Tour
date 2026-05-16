@@ -2,8 +2,6 @@
 
 An AI-powered audio tour generator for Iraqi archaeological sites. Select a site and duration, and a multi-agent pipeline writes, fact-checks, and narrates a personalised walking tour — then streams it live to your browser.
 
-![Tour page showing Babylon with map and audio player](docs/screenshot.png)
-
 ---
 
 ## Sites
