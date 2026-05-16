@@ -1,0 +1,53 @@
+site_id: erbil_citadel
+site_name: Erbil Citadel
+country: Iraq
+coordinates: [44.0090, 36.1901]
+
+stops:
+  - id: erbil_seray_gate
+    name: Seray Gate
+    coordinates: [44.0090, 36.1895]
+    keywords: [Seray Gate, citadel entrance, Erbil gate, monumental gateway]
+    description: The main monumental entrance to the citadel mound, marking the threshold between the modern city and one of the oldest continuously inhabited sites on Earth.
+
+  - id: erbil_mulla_afandi_mosque
+    name: Mulla Afandi Mosque
+    coordinates: [44.0088, 36.1902]
+    keywords: [Mulla Afandi, mosque, Ottoman, Islamic architecture, Erbil]
+    description: An important Ottoman-era mosque within the citadel representing centuries of Islamic urban life on the mound.
+
+  - id: erbil_hammam
+    name: Traditional Hammam (Bathhouse)
+    coordinates: [44.0092, 36.1903]
+    keywords: [hammam, bathhouse, Ottoman, urban life, Erbil citadel]
+    description: A historic bathhouse that served citadel residents for generations, representing the texture of daily life within the walls.
+
+  - id: erbil_textile_khan
+    name: Textile Khan
+    coordinates: [44.0089, 36.1900]
+    keywords: [khan, caravanserai, textile trade, Silk Road, merchant]
+    description: A traditional trading caravanserai that housed textile merchants, reflecting Erbil's historic role on regional trade routes.
+
+  - id: erbil_textile_museum
+    name: Kurdish Textile Museum
+    coordinates: [44.0091, 36.1904]
+    keywords: [Kurdish textiles, weaving, kilim, museum, cultural heritage]
+    description: A museum housed in a restored citadel building showcasing traditional Kurdish weaving, kilims, and textile traditions.
+
+  - id: erbil_civilization_museum
+    name: Erbil Civilization Museum
+    coordinates: [44.0087, 36.1901]
+    keywords: [Erbil museum, archaeology, 6000 years, Assyrian, ancient civilization]
+    description: A museum tracing the citadel's 6,000-year history through artifacts spanning Assyrian, Hellenistic, Islamic, and Ottoman periods.
+
+  - id: erbil_qaysari_bazaars
+    name: Qaysari Bazaars
+    coordinates: [44.0085, 36.1893]
+    keywords: [Qaysari, bazaar, covered market, Erbil souk, historic market]
+    description: The historic covered markets at the base of the citadel mound, continuously operating for centuries as the commercial heart of the city.
+
+  - id: erbil_citadel_viewpoint
+    name: Citadel Summit Viewpoint
+    coordinates: [44.0090, 36.1906]
+    keywords: [tell, stratigraphy, urban layers, panorama, Erbil city view]
+    description: The highest point of the citadel mound offering a panoramic view of modern Erbil and a visible cross-section of the tell's accumulated 6,000 years of urban layers.

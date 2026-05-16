@@ -1,0 +1,53 @@
+site_id: babylon
+site_name: Babylon
+country: Iraq
+coordinates: [44.4275, 32.5364]
+
+stops:
+  - id: babylon_ishtar_gate
+    name: Ishtar Gate
+    coordinates: [44.4217, 32.5422]
+    keywords: [Ishtar Gate, Nebuchadnezzar, glazed brick, Babylon walls]
+    description: The iconic blue-glazed ceremonial gate dedicated to the goddess Ishtar, built by Nebuchadnezzar II.
+
+  - id: babylon_processional_way
+    name: Processional Way
+    coordinates: [44.4219, 32.5415]
+    keywords: [Processional Way, lion reliefs, Marduk festival, sacred road]
+    description: The grand ceremonial street leading from the Ishtar Gate, lined with reliefs of lions.
+
+  - id: babylon_southern_palace
+    name: Nebuchadnezzar's Southern Palace
+    coordinates: [44.4223, 32.5408]
+    keywords: [Southern Palace, Nebuchadnezzar, throne room, royal court]
+    description: The main royal complex including the famous throne room of Nebuchadnezzar II.
+
+  - id: babylon_etemenanki
+    name: Ziggurat of Babylon (Etemenanki)
+    coordinates: [44.4228, 32.5398]
+    keywords: [Etemenanki, ziggurat, Tower of Babel, Marduk temple]
+    description: The massive stepped temple-tower dedicated to Marduk, possibly the origin of the Tower of Babel story.
+
+  - id: babylon_greek_theatre
+    name: Greek Theatre
+    coordinates: [44.4235, 32.5390]
+    keywords: [Greek theatre, Hellenistic, Alexander, occupation layers]
+    description: A Hellenistic-era theatre revealing Babylon's later Greek occupation after Alexander the Great.
+
+  - id: babylon_lion_statue
+    name: Lion of Babylon
+    coordinates: [44.4230, 32.5402]
+    keywords: [Lion of Babylon, basalt, Babylonian symbol, ancient sculpture]
+    description: A famous basalt statue of a lion standing over a human figure, one of the most recognizable symbols of the site.
+
+  - id: babylon_hanging_gardens
+    name: Hanging Gardens (Proposed Location)
+    coordinates: [44.4225, 32.5412]
+    keywords: [Hanging Gardens, Seven Wonders, Amytis, terraced garden]
+    description: The debated location of one of the Seven Wonders of the Ancient World.
+
+  - id: babylon_northern_palace
+    name: Northern Palace (Summer Palace)
+    coordinates: [44.4220, 32.5430]
+    keywords: [Northern Palace, summer palace, Nebuchadnezzar, administrative complex]
+    description: A secondary royal complex north of the main site, used as a summer residence.

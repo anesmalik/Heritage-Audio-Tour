@@ -1,0 +1,27 @@
+# ------------------------------------------------------------------ #
+# Iraqi Heritage Audio Tour — Python Dependencies
+# Install with: pip install -r requirements.txt
+# ------------------------------------------------------------------ #
+
+# ── Corpus Ingest (Step 2) ─────────────────────────────────────── #
+wikipedia-api==0.6.0          # Wikipedia article fetching
+chromadb==0.5.0               # Local vector store
+deep-translator==1.11.4       # Arabic → English translation
+
+# ── LangGraph + Agents (Step 3 & 4) ───────────────────────────── #
+langgraph==0.1.9              # Multi-agent graph orchestration
+langchain==0.2.0              # LLM abstractions used by LangGraph
+langchain-openai==0.1.7       # OpenAI integration for LangChain
+openai==1.30.0                # OpenAI API client (LLM + TTS)
+
+# ── Data validation (Steps 3–6) ───────────────────────────────── #
+pydantic>=2.7.4,<3.0.0        # Let pip resolve the right version
+
+# ── API layer (Step 7) ────────────────────────────────────────── #
+fastapi==0.111.0              # API framework
+uvicorn==0.29.0               # ASGI server to run FastAPI
+sse-starlette==1.8.2          # Server-Sent Events for streaming
+
+# ── Utilities ─────────────────────────────────────────────────── #
+pyyaml==6.0.1                 # YAML file parsing
+python-dotenv==1.0.1          # Load .env API keys
